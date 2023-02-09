@@ -18,7 +18,7 @@ THIRD PARTY API
 
 ## LINKS
 * [repo] https://github.com/01magdalenawild/weather-dashboard-06
-* [deployed website]  
+* [deployed website]   https://01magdalenawild.github.io/weather-dashboard-06/
 
 
 ## Assignment Instructions
