@@ -17,7 +17,7 @@ BOOTSTRAP
 THIRD PARTY API
 
 ## LINKS
-* [repo] 
+* [repo] https://github.com/01magdalenawild/weather-dashboard-06
 * [deployed website]  
 
 
